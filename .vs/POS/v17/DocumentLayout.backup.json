@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\cierrecajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\cierrecajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\pos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\pos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\posabarrotescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\posabarrotescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\aperturacajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\aperturacajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\detallesventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\detallesventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\cajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\cajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\aperturacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\aperturacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\cierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\cierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\loginrequestt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\loginrequestt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pos\\pos\\pos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A77B4709-0A8C-4755-BEAE-4FE39D96F16D}|POS\\POS.csproj|solutionrelative:pos\\pos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "POS\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\WeatherForecast.cs",
+              "RelativeToolTip": "POS\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T02:16:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\appsettings.json",
+              "RelativeDocumentMoniker": "POS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\appsettings.json",
+              "RelativeToolTip": "POS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-27T05:13:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "POS\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\appsettings.Development.json",
+              "RelativeToolTip": "POS\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T02:16:29.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CierreCajaController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CierreCajaController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\CierreCajaController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CierreCajaController.cs",
+              "RelativeToolTip": "POS\\Controllers\\CierreCajaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:32:04.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "POS\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:37:42.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Program.cs",
+              "RelativeDocumentMoniker": "POS\\Program.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Program.cs",
+              "RelativeToolTip": "POS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:13:14.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POS.http",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\POS.http",
+              "RelativeDocumentMoniker": "POS\\POS.http",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\POS.http",
+              "RelativeToolTip": "POS\\POS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-24T02:22:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PosAbarrotesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\PosAbarrotesContext.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\PosAbarrotesContext.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\PosAbarrotesContext.cs",
+              "RelativeToolTip": "POS\\Models\\PosAbarrotesContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:18:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "POS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:19:07.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "POS\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:23:43.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AperturaCajaController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\AperturaCajaController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\AperturaCajaController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\AperturaCajaController.cs",
+              "RelativeToolTip": "POS\\Controllers\\AperturaCajaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:31:09.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Venta.cs",
+              "RelativeToolTip": "POS\\Models\\Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:30:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\ReporteVenta.cs",
+              "RelativeToolTip": "POS\\Models\\ReporteVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:30:02.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetallesVentum.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\DetallesVentum.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\DetallesVentum.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\DetallesVentum.cs",
+              "RelativeToolTip": "POS\\Models\\DetallesVentum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:25:31.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "POS\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAE4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:38:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CajaController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CajaController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\CajaController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\CajaController.cs",
+              "RelativeToolTip": "POS\\Controllers\\CajaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:38:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AperturaCaja.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\AperturaCaja.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\AperturaCaja.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\AperturaCaja.cs",
+              "RelativeToolTip": "POS\\Models\\AperturaCaja.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:29:44.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CierreCaja.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\CierreCaja.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\CierreCaja.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\CierreCaja.cs",
+              "RelativeToolTip": "POS\\Models\\CierreCaja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:29:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Categoria.cs",
+              "RelativeToolTip": "POS\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:59:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequestt.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\LoginRequestt.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\LoginRequestt.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\LoginRequestt.cs",
+              "RelativeToolTip": "POS\\Models\\LoginRequestt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:19:53.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "POS\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:08:53.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "POS\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Models\\Usuario.cs",
+              "RelativeToolTip": "POS\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:20:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "POS\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\Controllers\\RolController.cs",
+              "RelativeToolTip": "POS\\Controllers\\RolController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T07:36:02.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "POS.csproj",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\POS.csproj",
+              "RelativeDocumentMoniker": "POS\\POS.csproj",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\POS\\POS\\POS.csproj",
+              "RelativeToolTip": "POS\\POS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T05:14:26.432Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
